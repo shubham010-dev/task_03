@@ -103,7 +103,7 @@ PUT /books/3
 ```
 **Response:**
 ```json
-{ "id": 2, "title": "Let Us C", "author": "Yashavant Kanetkar" }
+{ "id": 3, "title": "Let Us C", "author": "Yashavant Kanetkar" }
 ```
 
 ---
