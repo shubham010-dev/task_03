@@ -16,7 +16,7 @@ Data is stored **in-memory** (no database).
 
 ## 📂 Project Structure
 ```
-books-api/
+task_03/
 ├── node_modules/          # Dependencies
 ├── package.json           # Project metadata & scripts
 ├── package-lock.json      # Dependency lock file
