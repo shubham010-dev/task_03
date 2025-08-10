@@ -30,8 +30,8 @@ books-api/
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/books-api.git
-cd books-api
+git clone https://github.com/shubham010-dev/task_03.git
+cd task_03
 ```
 
 2️⃣ Install dependencies:
